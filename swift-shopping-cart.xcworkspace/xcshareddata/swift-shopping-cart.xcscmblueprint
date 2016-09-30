@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B1080C5C0E452DADBAE0E3C0ABB128E84B0B2A2A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8C8D17536DD3A84CD8C9515B54BFD7395B1F3AF3" : 9223372036854775807,
+    "B1080C5C0E452DADBAE0E3C0ABB128E84B0B2A2A" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "174BE4AD-BFB9-48F4-A09F-D080AAB8B702",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8C8D17536DD3A84CD8C9515B54BFD7395B1F3AF3" : "",
+    "B1080C5C0E452DADBAE0E3C0ABB128E84B0B2A2A" : "swift-shopping-cart-ios-0916\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "swift-shopping-cart",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "swift-shopping-cart.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:henrykchan\/swift-classesInit-lab-ios-0916.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8C8D17536DD3A84CD8C9515B54BFD7395B1F3AF3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:henrykchan\/swift-shopping-cart-ios-0916.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B1080C5C0E452DADBAE0E3C0ABB128E84B0B2A2A"
+    }
+  ]
+}
